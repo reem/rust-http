@@ -1,7 +1,7 @@
 [package]
 
 name = "http"
-version = "0.0.0-pre-alpha"
+version = "0.0.0-prealpha"
 authors = ["Jonathan Reem <jonathan.reem@gmail.com>"]
 repository = "https://github.com/reem/rust-http.git"
 description = "The future of the Rust HTTP stack."
